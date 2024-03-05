@@ -1,0 +1,158 @@
+body {
+    background-color:rgb(255, 255, 255);
+}
+.nav-item-1 {
+    color: white;
+    padding-right: 200px;
+}
+.carousel-inner {
+    width: 1350px;
+    height: 610px;
+}
+.visi-misi {
+    background-image: url(img/Banner\ .jpg);
+    color: black;
+    background-size: cover;
+    height: 90vh;
+    opacity: 90%;
+    z-index: -2;
+}
+.visi-misi h4 {
+    text-align: center;
+}
+.visi-misi img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.visi-misi h2  {
+    text-align: center;
+    font-weight: 700;
+}
+.visi-misi p {
+    font-weight: 1000;
+    text-align: center;
+    padding-top: 10px;
+}
+.text h4 {
+    text-align: center;
+    padding-top: 10px;
+}
+.text p {
+    text-align: center;
+    font-weight: 700;
+}
+#jurusan {
+    padding-top: 50px;
+    text-align: center;
+  }
+  #jurusan h2 h3 p {
+    font-weight: lighter;
+  }
+  #jurusan p {
+    opacity: 70%;
+  }
+  .keahlian img {
+    width: 90px;
+  }
+  .keahlian {
+    padding-top: 50px;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 80%;
+    margin: auto;
+  }
+  .baner img{
+    width: 1350px;
+    height: 400px;
+  }
+  .guru {
+    text-align: center;
+  }
+  .col {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.col img {
+    width: 275px;
+    height: 150px;
+    margin-top: auto;
+    margin-right: auto;
+    display: block;
+}
+.col2 {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.col2 img {
+  width: 296px;
+  height: 190px;
+}
+  .col1 {
+    width: 340px;
+    height: 400px;
+    padding-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+.col1 img {
+    width: 290px;
+    height: 150px;
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col1 h5 {
+    text-align: center;
+}
+.card-text  {
+    text-align: center;
+  }
+  .col1 {
+    margin: 0%;
+  }
+.berita h4 {
+  text-align: center;
+  margin-top: 2%;
+}
+.card-body h5 {
+  text-align: initial;
+  font-size: medium;
+}
+.fasilitas {
+  background-image: url(img/Banner\ 1.jpg);
+  color: black;
+  background-size: cover;
+  height: 80;
+  opacity: 90%;
+  z-index: -2;
+}
+.text h1 {
+  text-align: center;
+  font-weight: 700;
+}
+.fasilitas h5 {
+  text-align: center;
+}
+.col3 {
+  width: 340px;
+  height: 250px;
+  padding-bottom: 10px;
+  margin-left: 80px;
+  margin-right: 1px;
+}
+.col3 img {
+  width: 290px;
+  height: 150px;
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
